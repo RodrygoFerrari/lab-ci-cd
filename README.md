@@ -1,4 +1,4 @@
-## Laboratório CI/CD
+### Laboratório CI/CD
 
 Documentação para criação do laboratório (pipeline de infra): [Clique aqui!](./Labs/doc-infra/README.md)
 
