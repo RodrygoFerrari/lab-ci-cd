@@ -8,6 +8,7 @@ services:
     image: ci-cd-app:v1.0.0
     container_name: ci-cd-app
     restart: always
+    #
     ports:
       - "8000:8000"
     environment:
