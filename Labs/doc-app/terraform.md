@@ -52,7 +52,7 @@ Define a configuração de rede:
 Define a configuração de load balancer
 - Associa o load balancer ao serviço ECS.
 - O tráfego será direcionado ao container `ci-cd-app` na porta `8000`.
-
+#
 ```hcl
 resource "aws_ecs_service" "this" {
   name            = "app-service"
